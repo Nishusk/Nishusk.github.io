@@ -1,13 +1,15 @@
 # Nishusk.github.io
-### Hi there 👋 This is #Nishu Kumari
+### Hi there 👋 This is Nishu Kumari
 
 
 <p align="center">
-  <a href="https://github.com/Nishusk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20coding;Learning%20HTML%2C%20CSS%2C%20and%20JavaScript;Building%20responsive%20websites;Excited%20to%20explore%20web%20development%20frameworks&font=Fira%20Code&center=true&width=440&height=45&color=0099ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/Nishusk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20coding;Learning%20HTML%2C%20CSS%2C%20and%20JavaScript;Building%20responsive%20websites;Excited%20to%20explore%20web%20development%20frameworks&font=Fira%20Code&center=true&width=440&height=45&color=A52A2A&vCenter=true&size=22"></a>
 </p>
 
 
-<div align="center">     
+<div align="center"> 
+ 
+
 [![](https://visitcount.itsvg.in/api?id=Nishusk&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical -->
@@ -17,10 +19,12 @@
 
 <div align="center">
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishu-k-b7b34621a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishusk05?t=QuTS5y4NNoFHpjdx9tNrnQ&s=09) 
- <a href="https://github.com/Nishusk" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishu-k-b7b34621a/)
+  <a href="https://github.com/Nishusk" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishusk05?t=QuTS5y4NNoFHpjdx9tNrnQ&s=09) 
+
 <a href="mailto:nishuskumari05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nishuskumari05@gmail.com />
 </a>
@@ -76,7 +80,6 @@
 ## Quine Stats:
 <div align = "center">
  
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Languages Over Time](https://stats.quine.sh/Nishusk/languages-over-time?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Stats](https://stats.quine.sh/Nishusk/github?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Topics Over Time](https://stats.quine.sh/Nishusk/topics-over-time?theme=dark)](https://quine.sh)
