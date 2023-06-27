@@ -28,7 +28,7 @@
 </div>
 
 # About Me <img src="./img/gif.gif" height="48px">
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/git-github-hub-icon-25.png" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/github" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
 <br />
 <img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> I am passionate about acquiring knowledge, coding, and problem-solving.
 <br />
