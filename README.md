@@ -1,13 +1,24 @@
 # Nishusk.github.io
-### Hi there 👋 This is #Nishu Kumari
+### Hi there 👋 This is Nishu Kumari
+
 
 
 <p align="center">
-  <a href="https://github.com/Nishusk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20coding;Learning%20HTML%2C%20CSS%2C%20and%20JavaScript;Building%20responsive%20websites;Excited%20to%20explore%20web%20development%20frameworks&font=Fira%20Code&center=true&width=440&height=45&color=0099ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/Nishusk/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20profile!👋;Front-end%20Developer%20👩‍💻;Building%20responsive%20websites%20📱;Excited%20to%20explore%20web%20development%20frameworks%20🚀;Always%20Eager%20to%20learn%20new%20things%20📚;Enthusiastic%20problem%20solver%20💡;Passionate%20about%20coding%20💻&font=Fira%20Code&center=true&width=630&height=45&color=" + getRandomColor() + "&vCenter=true&size=22">
+  </a>
 </p>
 
+<script src="path/to/randomColor.js"></script>
 
-<div align="center">     
+
+
+
+
+
+
+<div align="center"> 
+ 
 [![](https://visitcount.itsvg.in/api?id=Nishusk&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical -->
@@ -17,26 +28,29 @@
 
 <div align="center">
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishu-k-b7b34621a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishusk05?t=QuTS5y4NNoFHpjdx9tNrnQ&s=09) 
- <a href="https://github.com/Nishusk" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishu-k-b7b34621a/)
+  <a href="https://github.com/Nishusk" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishusk05?t=QuTS5y4NNoFHpjdx9tNrnQ&s=09) 
+
 <a href="mailto:nishuskumari05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nishuskumari05@gmail.com />
 </a>
 
 </div>
 
-# About Me <img src="./img/gif.gif" height="48px">
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/github" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
+# About Me <img src ="./img/gif.gif" height="48px">
+
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
 <br />
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> I am passionate about acquiring knowledge, coding, and problem-solving.
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="30" height="30"> I am passionate about acquiring knowledge, coding, and problem-solving.
 <br />
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> Constantly expanding my skills and exploring new technologies.
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="30" height="30"> Constantly expanding my skills and exploring new technologies.
 <br />
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> Adaptable and resourceful developer constantly adapting to emerging technologies and industry trends.
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="30" height="30"> Adaptable and resourceful developer constantly adapting to emerging technologies and industry trends.
 <br />
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> Strangers are friends waiting to be made! Let's break the ice! Say **Hi** 👋, and let's discover common interests and ideas. [Here](https://www.linkedin.com/in/nishu-k-b7b34621a/)!
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="30" height="30"> Strangers are friends waiting to be made! Let's break the ice! Say **Hi** 👋, and let's discover common interests and ideas. [Here](https://www.linkedin.com/in/nishu-k-b7b34621a/)!
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -76,7 +90,6 @@
 ## Quine Stats:
 <div align = "center">
  
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Languages Over Time](https://stats.quine.sh/Nishusk/languages-over-time?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Stats](https://stats.quine.sh/Nishusk/github?theme=dark)](https://quine.sh)
 [![Nishusk's GitHub | Topics Over Time](https://stats.quine.sh/Nishusk/topics-over-time?theme=dark)](https://quine.sh)
