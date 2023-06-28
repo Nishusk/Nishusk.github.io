@@ -3,13 +3,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/Nishusk/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20coding;Learning%20HTML%2C%20CSS%2C%20and%20JavaScript;Building%20responsive%20websites;Excited%20to%20explore%20web%20development%20frameworks&font=Fira%20Code&center=true&width=440&height=45&color=A52A2A&vCenter=true&size=22"></a>
+  <a href="https://github.com/Nishusk/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20profile!👋;Front-end%20Developer%20👩‍💻;Building%20responsive%20websites%20📱;Excited%20to%20explore%20web%20development%20frameworks%20🚀;Always%20Eager%20to%20learn%20new%20things%20📚;Enthusiastic%20problem%20solver%20💡;Passionate%20about%20coding%20💻&font=Fira%20Code&center=true&width=630&height=45&color=A52A2A&vCenter=true&size=22">
+</a>
 </p>
+
+
+
 
 
 <div align="center"> 
  
-
 [![](https://visitcount.itsvg.in/api?id=Nishusk&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical -->
@@ -31,8 +35,9 @@
 
 </div>
 
-# About Me <img src="./img/gif.gif" height="48px">
-<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/github" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
+# About Me <img src ="./img/gif.gif" height="48px">
+
+<img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/pen.png" width="25" height="25"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
 <br />
 <img src="https://github.com/Nishusk/Nishusk.github.io/blob/main/img/GitHub.webp" width="30" height="30"> I am passionate about acquiring knowledge, coding, and problem-solving.
 <br />
