@@ -1,10 +1,12 @@
-# Nishusk.github.io
-### Hi there 👋 This is Nishu Kumari
+<h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hi there 👋 This is Nishu Kumari </h2>
+
+
+
 
 
 <p align="center">
  <a href="https://github.com/Nishusk/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20profile!👋;Front-end%20Developer%20👩‍💻;Building%20responsive%20websites%20📱;Excited%20to%20explore%20web%20development%20frameworks%20🚀;Always%20Eager%20to%20learn%20new%20things%20📚;Enthusiastic%20problem%20solver%20💡;Passionate%20about%20coding%20💻&font=Fira%20Code&center=true&width=550&height=45&color=A52A2A&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20profile!👋;Front-end%20Developer%20👩‍💻;Building%20responsive%20websites%20📱;Excited%20to%20explore%20web%20development%20frameworks%20🚀;Always%20Eager%20to%20learn%20new%20things%20📚;Enthusiastic%20problem%20solver%20💡;Passionate%20about%20coding%20💻&font=Fira%20Code&center=true&width=630&height=45&color=A52A2A&vCenter=true&size=22">
 </a>
 
 </p>
@@ -49,7 +51,7 @@
 
 
 
-## Tech Stack
+## Tech Stack <img src = "https://media3.giphy.com/media/3oKIPoIRrJDteB2Rc4/giphy.gif" width = "30" height = "30">
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
